@@ -4,7 +4,6 @@ import styles from './App.module.scss';
 import logo from './images/logo.png';
 
 function App() {
-  console.log('styles', styles)
   return (
     <div className={styles.wrapper}>
       <img src={logo} className={styles.image}/>
