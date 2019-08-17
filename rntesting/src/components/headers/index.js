@@ -3,7 +3,7 @@ import React from 'react';
 const Header = (props) => (
   <header className={props.className}>
     <div >
-      Header
+      Brand Name
     </div>
   </header>
 )
