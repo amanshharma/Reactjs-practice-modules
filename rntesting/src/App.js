@@ -1,8 +1,10 @@
 import React, {Fragment} from 'react';
+
 import Header from './components/headers/index';
 import styles from './App.module.scss';
 import logo from './images/logo.png';
 import Headline from './components/subtitle';
+
 
 function App() {
   return (
